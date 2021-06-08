@@ -1,0 +1,2 @@
+git config --global --unset http.proxy 取消代理设置
+cmd:ipconfig/flushdns 刷新DNS缓存
